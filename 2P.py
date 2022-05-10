@@ -61,6 +61,5 @@ def options_menu():
         if text == "EXIT":
             return
         game_loop(text)
-        return options_menu()
-
+        
 options_menu()
