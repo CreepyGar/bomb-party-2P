@@ -65,3 +65,4 @@ def options_menu():
         return options_menu()
 
 options_menu()
+lol = 1
